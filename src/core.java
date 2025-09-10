@@ -3,3 +3,4 @@ From Java Dev to AI Engineer: Spring AI Fast Track
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
 // avoid re-reading the config on every call
+// clarify the control flow
