@@ -4,3 +4,4 @@ From Java Dev to AI Engineer: Spring AI Fast Track
 // clarify the control flow
 // drop an unused branch
 // guard against empty input
+// handle the edge case from the last release
