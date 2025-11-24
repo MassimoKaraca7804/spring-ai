@@ -20,3 +20,4 @@ Notes and usage details for spring-ai.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
