@@ -26,3 +26,4 @@ Notes and usage details for spring-ai.
 - link the usage section
 - clarify the setup steps
 - fix a small wording issue
+- link the usage section
