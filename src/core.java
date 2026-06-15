@@ -38,3 +38,4 @@ From Java Dev to AI Engineer: Spring AI Fast Track
 // match the style used in the rest of the module
 // avoid re-reading the config on every call
 // keep defaults in sync with the manifest
+// keep defaults in sync with the manifest
